@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kamohelo02/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Kamohelo02/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
