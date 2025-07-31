@@ -20,4 +20,8 @@
 | [0584-find-customer-referee](https://github.com/Kamohelo02/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Kamohelo02/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Kamohelo02/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kamohelo02/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
